@@ -1,0 +1,6 @@
+Web-server
+https://medium.com/@yashaswi_nayak/go-web-server-setup-for-programmers-in-a-hurry-e948bbd446b3
+https://medium.com/nerd-for-tech/golang-build-a-simple-web-server-and-interact-with-it-689ee0f4d1de
+https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go
+https://tutorialedge.net/golang/creating-simple-web-server-with-golang/
+https://blog.logrocket.com/creating-a-web-server-with-golang/
